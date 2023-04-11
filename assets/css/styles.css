@@ -595,11 +595,7 @@ a {
     cursor: default;
     background: var(--primary);
 }
-<<<<<<< HEAD
 /* Footer */
-=======
-/* Footer    */
->>>>>>> dcf5af4e6341d77691fa0ad71b83454c3aa94dab
 .footer {
     padding: 96px 135px 0;
     background: #2e2100;
